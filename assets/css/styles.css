@@ -21,6 +21,7 @@ body {
 .posts {
   background-color: #23A8F2;
   border-radius: .3rem;
-  margin: 10px 10px;
+  margin: 20px auto;
   padding: 1px 20px;
+  width: 80%;
 }
