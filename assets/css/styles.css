@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+#back-button {
+  cursor: pointer;
+}
+
+.users {
+  cursor: pointer;
+  background-color: #23A8F2;
+  border-radius: .3rem;
+  width: 325px;
+  margin: 20px auto;
+  padding: 5px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.posts {
+  background-color: #23A8F2;
+  border-radius: .3rem;
+  margin: 10px 10px;
+  padding: 1px 20px;
+}
